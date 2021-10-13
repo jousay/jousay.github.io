@@ -1,17 +1,8 @@
-h1{color: green; font-family: sans-serif}
-form.form-example {
-    display: table;
-}
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
 
-div.form-example {
-    display: table-row;
-}
+h1{color: green; font-family: sans-serif; text-align: center; margin: 30px;}
+h2{font-family: sans-serif; text-align: center; margin: -20px 500px 30px; background: gold;}
 
-label, input {
-    display: table-cell;
-    margin-bottom: 10px;
-}
+#italiano {font-size: 40px;font-family: 'Italianno', cursive; color: brown; margin: 0 10px}
+.styledebase {font-family: sans-serif; font-weight: bold;margin: 22px;}
 
-label {
-    padding-right: 10px;
-}
